@@ -1,2 +1,2 @@
 # LeilaoOnline-N2-1
-Atividade para avaliação da N2-1 da Matéria de Sistemas Web
+Este repositório contém uma implementação simulada de backend para um sistema de leilões de peças de aço não padronizadas.
