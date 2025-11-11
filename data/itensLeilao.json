@@ -1,0 +1,20 @@
+[
+{
+"itemId": "ITEM-001",
+"descricao": "Chapa de aço irregular - canto dobrado",
+"pesoKg": 120.5,
+"precoBase": 250.0
+},
+{
+"itemId": "ITEM-002",
+"descricao": "Tubo cortado com rebarbas",
+"pesoKg": 85.0,
+"precoBase": 180.0
+},
+{
+"itemId": "ITEM-003",
+"descricao": "Viga com amassado em ponta",
+"pesoKg": 300.2,
+"precoBase": 600.0
+}
+]
